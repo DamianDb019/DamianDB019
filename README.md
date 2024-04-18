@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Cybersecurity Detection & Monitoring](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Cybersecurity Detection & Monitoring](https://github.com/DamianDb019/Detection-Monitoring)
 
 
 <h2>📺 Popular YouTube Videos</h2>
