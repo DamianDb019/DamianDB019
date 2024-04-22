@@ -4,7 +4,7 @@
 
   - [Cybersecurity Detection & Monitoring](https://github.com/DamianDb019/Detection-Monitoring)
   - [Honey Pot Setup w/ Live Cyber Attacks](https://github.com/DamianDb019/SIEM)
-
+  - [Vulnerability Management & Remediation](https://github.com/DamianDb019/NessusTutorial)
 
 <h2>🐍 Python</h2>
 
